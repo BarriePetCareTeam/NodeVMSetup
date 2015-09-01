@@ -5,12 +5,12 @@
     sudo apt-get install git
   ```
 2. Next step is to clone the git repo in the desired location
-  ```bash
+  ```
     cd <desired-location>
     git clone https://github.com/BarriePetCareTeam/NodeVMSetup.git
   ```
 3. Then open the NodeVMSetup folder and run the shell file
-  ```bash
+  ```
     cd NodeVMSetup
     sh setup
   ```
