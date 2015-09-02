@@ -28,6 +28,10 @@ sudo npm install -g nodejs
 sudo npm install -g 'less'
 sudo npm install -g grunt
 sudo npm install -g bower
+sudo npm install -g mongoose
 sudo npm install -g meanjs
 sudo npm install -g generator-meanjs
 sudo npm install -g yo
+
+sudo chown -R $USER ~/.npm
+sudo chown -R $USER /usr/local/lib/node_modules
