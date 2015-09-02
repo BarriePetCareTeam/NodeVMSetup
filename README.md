@@ -8,7 +8,7 @@
   cd <desired-location>
   git clone https://github.com/BarriePetCareTeam/NodeVMSetup.git
   cd NodeVMSetup
-  sh setup
+  sh setup.sh
 ```
 
 ### Optional applications to install: 
